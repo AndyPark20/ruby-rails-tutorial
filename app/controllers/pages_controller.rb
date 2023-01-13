@@ -3,5 +3,6 @@ class PagesController < ApplicationController
   end
 
   def second_page
+    ###
   end
 end
